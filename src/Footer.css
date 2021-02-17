@@ -1,0 +1,37 @@
+.footer {
+  background-color: rgb(27, 24, 24);
+  display: flex;
+  border: 1px solid gray;
+  padding: 30px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.footer__language {
+  display: flex;
+  border: 1px solid gray;
+  padding: 5px;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100px;
+  font-weight: 600;
+}
+
+.footer__currency {
+  display: flex;
+  border: 1px solid gray;
+  padding: 10px;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 150px;
+  font-weight: 600;
+}
+.footer__country {
+  display: flex;
+  border: 1px solid gray;
+  padding: 10px;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 150px;
+  font-weight: 600;
+}
